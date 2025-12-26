@@ -77,20 +77,6 @@ I am a **Software Developer** with experience across **Frontend and Backend deve
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Personal Portfolio Website**  
-- Modern UI with animations  
-- Fully responsive design  
-- Built using React & Framer Motion  
-- Deployed on Vercel  
-
-🔹 **Full-Stack Applications (In Progress)**  
-- API-driven architecture  
-- Clean code & scalability focused  
-
----
-
 ## 🎯 Current Focus
 
 - Advanced React & frontend architecture  
