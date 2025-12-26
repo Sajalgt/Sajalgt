@@ -4,6 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+%26+Backend+Developer;Software+Developer+%7C+Java+%26+DSA;Python+%7C+C+%7C+Problem+Solving;Building+Scalable+Real-World+Applications;React+%7C+Node+%7C+System+Design" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sajalgt&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4bXF2b2lqNnh1cXh6Z2Q5cWpxbGJ6ZWp3Z3B2dHh3dGZtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+</p>
 ---
 
 ## 👨‍💻 About Me
