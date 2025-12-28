@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajal Gupta</h1>
+<h1 align="center">Hi 👋, I'm Sajal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+%26+Backend+Developer;Software+Developer+%7C+Java+%26+DSA;Python+%7C+C+%7C+Problem+Solving;Building+Scalable+Real-World+Applications;React+%7C+Node+%7C+System+Design" />
@@ -43,6 +43,7 @@ I am a **Software Developer** with experience across **Frontend and Backend deve
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
 <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 </p>
 
 ---
