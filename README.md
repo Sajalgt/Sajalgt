@@ -14,13 +14,13 @@
 
 I am a **Software Developer** with experience across **Frontend and Backend development**, focused on building **scalable, maintainable, and production-ready applications**.
 
-- ⚛️ Frontend: React, UI/UX, responsive design  
-- ⚙️ Backend: APIs, server logic, databases  
-- ☕ Java + Data Structures & Algorithms  
-- 🐍 Python for logic & scripting  
-- 💻 C for core programming fundamentals  
-- 🚀 Actively building real-world projects  
-- 📈 Consistent learner & GitHub contributor  
+⚛️ Frontend Development: React, modern UI/UX principles, responsive design
+⚙️ Backend Fundamentals: REST APIs, server-side logic, database basics
+☕ Java & DSA: Strong focus on problem-solving and core data structures
+🐍 Python: Logic building and scripting
+💻 C Programming: Solid understanding of programming fundamentals
+🚀 Project-Based Learning: Actively building and improving real-world projects
+📈 Continuous Learner: Regular GitHub contributions and consistent skill growth
 
 </td>
 
