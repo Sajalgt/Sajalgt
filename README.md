@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajal</h1>
+<h1 align="center">Hi, I'm Sajal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+%26+Backend+Developer;Software+Developer+%7C+Java+%26+DSA;Python+%7C+C+%7C+Problem+Solving;Building+Scalable+Real-World+Applications;React+%7C+Node+%7C+System+Design" />
