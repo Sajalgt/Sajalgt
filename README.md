@@ -103,7 +103,7 @@ Full Stack Engineer building AI-powered systems • Cloud & DevOps • Software 
    <a href="https://instagram.com/sajal.gta">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=00ff9f">
   </a>
-  <a href="mailto:sajalngupta@gmail.com">
+  <a href="mailto:guptasajalgs@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00ff9f">
   </a>
 </p>
